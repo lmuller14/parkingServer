@@ -97,3 +97,5 @@ GitHub.sublime-settings
 
 # Visual Studio Code #
 .vscode/*
+
+.DS_Store
